@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-    <a aria-label="build" href="https://github.com/arichornloverALT/Default-Dark-Mode/actions">
-        <img src="https://img.shields.io/github/actions/workflow/status/nebuIr/Default-Dark-Mode/optimize.yml?branch=%221.19%22">
+    <a aria-label="build" href="https://github.com/arichornloverALT/Default-Dark-Mode-Expansion/actions">
+        <img src="https://img.shields.io/github/actions/workflow/status/arichornloverALT/Default-Dark-Mode-Expansion/optimize.yml?branch=%221.21%22">
     </a>
-    <a aria-label="release" href="https://github.com/arichornloverALT/Default-Dark-Mode/releases/latest">
-        <img alt="" src="https://img.shields.io/github/v/release/nebuIr/Default-Dark-Mode">
+    <a aria-label="release" href="https://github.com/arichornloverALT/Default-Dark-Mode-Expansion/releases/latest">
+        <img alt="" src="https://img.shields.io/github/v/release/arichornloverALT/Default-Dark-Mode-Expansion">
     </a>
     <a aria-label="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
         <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen.svg">
     </a>
-    <a aria-label="github downloads" href="https://github.com/arichornloverALT/Default-Dark-Mode/releases">
-        <img alt="" src="https://img.shields.io/github/downloads/arichornloverALT/Default-Dark-Mode/total?logo=github">
+    <a aria-label="github downloads" href="https://github.com/arichornloverALT/Default-Dark-Mode-Expansion/releases">
+        <img alt="" src="https://img.shields.io/github/downloads/arichornloverALT/Default-Dark-Mode-Expansion/total?logo=github">
     </a>
     <a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/default-dark-mode-expansion/versions">
         <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/modrinth">
