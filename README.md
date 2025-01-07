@@ -18,10 +18,10 @@
         <img alt="" src="https://img.shields.io/github/downloads/arichornloverALT/Default-Dark-Mode-Expansion/total?logo=github">
     </a>
     <a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/default-dark-mode-expansion/versions">
-        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/modrinth">
+        <img alt="" src="https://img.shields.io/modrinth/dt/m3vMfZFQ?labelColor=2D2D2D&color=2D2D2D&label=downloads&logo=modrinth&logoColor=green&style=flat">
     </a>
     <a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/default-dark-mode-expansion/files">
-        <img alt="" src="https://img.shields.io/endpoint?url=https://api.darkomizer.com/shields/downloads/curseforge">
+        <img alt="" src="https://cf.way2muchnoise.eu/full_1077191_downloads.svg">
     </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 All versions can be downloaded from the [GitHub Releases page](https://github.com/arichornloverALT/Default-Dark-Mode/releases).
 
-This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/default-dark-mode-expansion), [CurseForge](https://curseforge.com/minecraft/texture-packs/default-dark-mode-expansion), & [Planet Minecraft](https://planetminecraft.com/texture_pack/default-dark-mode).
+This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/default-dark-mode-expansion), [CurseForge](https://curseforge.com/minecraft/texture-packs/default-dark-mode-expansion)~~, & [Planet Minecraft](https://planetminecraft.com/texture_pack/default-dark-mode)~~.
 
 ## Mod Support
 
@@ -48,4 +48,5 @@ A list of supported mods can be found on the [wiki](https://github.com/nebuIr/De
 
 ![Refined Storage Wireless Screen](https://github.com/user-attachments/assets/d45eb321-c4be-482c-bc3d-2fb01a5354b7)
 
-
+#
+<a href="https://billing.apexminecrafthosting.com/aff.php?aff=15169"><img src="https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png" width="594" height="100" border="0"></a>
