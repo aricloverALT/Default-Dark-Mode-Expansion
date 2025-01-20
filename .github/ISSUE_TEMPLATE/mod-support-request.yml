@@ -1,13 +1,13 @@
 name: Mod Support Request
 description: Request support for a specific mod
-title: "[Mod Support Request] EXAMPLE MOD"
-labels: ["🧩 mod-support"]
+title: '[Mod Support Request] EXAMPLE MOD'
+labels: ['🧩 mod-support']
 body:
   - type: markdown
     attributes:
       value: |
         Before submitting this mod support request, please make sure that your mod has not already been requested in another issue.
-        
+
         If you have multiple mods that you would like to request support for, please submit a **separate issue** for each mod.
 
   - type: textarea
@@ -23,7 +23,7 @@ body:
     attributes:
       label: Link to the mod page
       description: Please provide a URL to the mod page.
-      placeholder: "Example: https://modrinth.com/resourcepack/default-dark-mode"
+      placeholder: 'Example: https://modrinth.com/resourcepack/default-dark-mode'
     validations:
       required: true
 
@@ -31,13 +31,14 @@ body:
     id: versions
     attributes:
       label: Game versions
-      description: What game versions should be supported? Select all applicable game versions. Only the latest 3 major versions are supported.
+      description: What game versions should be supported? Select all applicable game versions. Only the latest 4 major versions are supported. (and 1.12 aswell)
       multiple: true
       options:
-        - "1.21"
-        - "1.20"
-        - "1.19"
-        - "1.18"
+        - '1.21'
+        - '1.20'
+        - '1.19'
+        - '1.18'
+        - '1.12'
     validations:
       required: true
 
