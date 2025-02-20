@@ -49,4 +49,4 @@ A list of supported mods can be found on the [wiki](https://github.com/nebuIr/De
 ![Refined Storage Wireless Screen](https://github.com/user-attachments/assets/d45eb321-c4be-482c-bc3d-2fb01a5354b7)
 
 #
-<a href="https://billing.apexminecrafthosting.com/aff.php?aff=15169"><img src="https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png" width="594" height="100" border="0"></a>
+<a href="https://billing.apexminecrafthosting.com/aff.php?aff=15169"><img src="https://github.com/user-attachments/assets/8becc6ba-6f85-480e-990e-006040118cb2" width="594" height="100" border="0"></a>
