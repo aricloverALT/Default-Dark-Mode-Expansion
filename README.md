@@ -1,7 +1,7 @@
 <p align="center">
     <img src="pack.png" />
     <h1 align="center">Default Dark Mode: Expansion</h1>
-    <h2 align="center">The Expanded Dark Mode Resource Pack for Minecraft: Java Edition</h2>
+    <h2 align="center">An Add-on for the Default Dark Mode Resource Pack for Minecraft: Java Edition</h2>
 </p>
 
 <p align="center">
@@ -26,16 +26,14 @@
 </p>
 
 <p align="center">
-    Default Dark Mode Expansion gives the more modded Minecraft GUIs a darker look while keeping most of the original Default Dark Mode textures in tact.
+    Default Dark Mode Expansion adds and updates modded Minecraft GUIs for a more darker look while keeping most of the original Default Dark Mode textures by NebuIr in tact and unmodified.
 </p>
 
 ![Banner](https://i.imgur.com/p9lNs6l.png)
 
 ## Download
-
-All versions can be downloaded from the [GitHub Releases page](https://github.com/arichornloverALT/Default-Dark-Mode/releases).
-
-This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/default-dark-mode-expansion), [CurseForge](https://curseforge.com/minecraft/texture-packs/default-dark-mode-expansion)~~, & [Planet Minecraft](https://planetminecraft.com/texture_pack/default-dark-mode)~~.
+[<img alt="modrinth" width="177" height="56" src="https://i.imgur.com/vzovT62.png">](https://modrinth.com/resourcepack/default-dark-mode-expansion) [<img alt="curseforge" width="195" height="56" src="https://i.imgur.com/yvuoYHq.png">](https://legacy.curseforge.com/minecraft/texture-packs/default-dark-mode-expansion)
+[<img alt="planet_minecraft" width="56" height="56" src="https://cdn.modrinth.com/data/cached_images/c495fd44d871da79ad235d58b332d58c79489b77.jpeg">](https://www.planetminecraft.com/texture-pack/default-dark-mode-expansion-1-19-1-21)
 
 ## Mod Support
 
